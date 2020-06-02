@@ -115,5 +115,4 @@ def organize_songs_by_artist (tracks)
       hash[artist] = [] << trackname
     end
   end
-  hash
-end  
+   
